@@ -1,0 +1,13 @@
+phidata
+python-dotenv
+yfinance
+packaging
+duckduckgo-search
+fastapi
+uvicorn
+groq
+requests
+openai
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
